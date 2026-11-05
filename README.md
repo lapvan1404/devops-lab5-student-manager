@@ -1,2 +1,7 @@
-﻿# Student Manager
-Ứng dụng quản lý sinh viên — DevOps Lab 5
+﻿# DEVOPS LAB 5
+
+## Thành viên
+- lapvan
+
+## Mô tả
+Đây là phiên bản README của lapvan.
